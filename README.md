@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jasko
 - 👀 I’m interested in Data Science, Data Visualization and Machine Learning
-- 🌱 I’m currently learning a lot of stuff, just being nerdy
+- :fleur_de_lis: Bosnian expat, living in Germany
+- :snake: useR of Python
 
 
 <!---
